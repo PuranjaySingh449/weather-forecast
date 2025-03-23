@@ -4,8 +4,6 @@ This project provides weather forecasting by utilizing real-time data from OpenW
 Features
 Fetches current weather data for a given city using OpenWeatherMap API.
 
-Reads and processes historical weather data from a CSV file.
-
 Uses machine learning models (Random Forest) to predict rain probability.
 
 Implements regression models to forecast future temperature and humidity.
